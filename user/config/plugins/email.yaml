@@ -1,0 +1,29 @@
+enabled: true
+from: gougouli69@outlook.fr
+from_name: Greg
+to: gougouli69@outlook.fr
+to_name: Greg2
+queue:
+  enabled: false
+  flush_frequency: '* * * * *'
+  flush_msg_limit: 10
+  flush_time_limit: 100
+mailer:
+  engine: sendmail
+  smtp:
+    server: smtp.mailtrap.io
+    port: 2525
+    encryption: none
+    user: da7aa767512244
+    password: 0b07fba2b9af04
+  sendmail:
+    bin: '/usr/sbin/sendmail -bs'
+content_type: text/html
+debug: false
+charset: null
+cc: null
+cc_name: null
+bcc: null
+reply_to: null
+reply_to_name: null
+body: null

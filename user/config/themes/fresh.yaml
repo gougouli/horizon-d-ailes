@@ -1,0 +1,28 @@
+streams:
+  schemes:
+    theme:
+      type: ReadOnlyStream
+      prefixes:
+        '': [user/themes/fresh, user/themes/haywire]
+dropdown:
+  enabled: true
+sidebar:
+  enabled: '1'
+  category: null
+  links: null
+reference_bulma: true
+category2: null
+lynx: null
+insipia: null
+lnx: null
+catsuomahe: null
+cog: null
+header:
+  category: null
+  links: null
+  cat2: null
+  links2: null
+  cat3: null
+  links3: null
+logo: {  }
+favicon: {  }

@@ -1,0 +1,5 @@
+enabled: true
+provider: openstreetmap
+apikey: null
+t-style: cycle
+m-style: mapbox.streets
